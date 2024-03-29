@@ -1,0 +1,6 @@
+asn1crypto==1.5.1
+pg8000==1.30.5
+python-dateutil==2.9.0.post0
+python-decouple==3.8
+scramp==1.4.4
+six==1.16.0
