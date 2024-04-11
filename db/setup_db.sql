@@ -11,13 +11,13 @@ CREATE TABLE fact_test_result (
     test_class_id INT,
     test_type VARCHAR,
     test_result VARCHAR,
-    test_mileage INT,
+    test_mileage DECIMAL,
     postcode_area VARCHAR,
     make VARCHAR,
     model VARCHAR,
     colour VARCHAR,
     fuel_type VARCHAR,
-    cylinder_capacity INT,
+    cylinder_capacity DECIMAL,
     first_use_date DATE
 );
 
